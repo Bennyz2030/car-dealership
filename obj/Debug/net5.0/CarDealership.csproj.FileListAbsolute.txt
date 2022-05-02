@@ -1,0 +1,15 @@
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.csproj.AssemblyReference.cache
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.AssemblyInfoInputs.cache
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.AssemblyInfo.cs
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.csproj.CoreCompileInputs.cache
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/CarDealership.deps.json
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/CarDealership.runtimeconfig.json
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/CarDealership.runtimeconfig.dev.json
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/CarDealership.dll
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/ref/CarDealership.dll
+/Users/nickb/Desktop/car-dealership/bin/Debug/net5.0/CarDealership.pdb
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.dll
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/ref/CarDealership.dll
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.pdb
+/Users/nickb/Desktop/car-dealership/obj/Debug/net5.0/CarDealership.genruntimeconfig.cache
